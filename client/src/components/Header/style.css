@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image: url(library.png);
+    
+}
+
+h1 {
+    color: royalblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifx;
+    font-size: 100px;
+}
